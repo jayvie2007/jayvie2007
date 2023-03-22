@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jayvie2007/jayvie2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Aquaponics...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Secret...
 - 😄 Pronouns: He...
 - ⚡ Fun fact: I'm not happy...
--->
+
