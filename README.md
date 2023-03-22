@@ -1,6 +1,8 @@
-### Hi there my name is Jayvie De Leon an aspiring Python Developer and currently learning Django.
+###Hi there! My name is Jayvie De Leon an aspiring Python Developer and currently learning Django.
 
-I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino. 
+I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
+
+I also do 3D modeling/designing using Blender and if I have extra time,I will improve my 3D designing skills. 
 
 - 🔭 I’m currently working on IoT Aquaponics...
 - 🌱 I’m currently learning Django and advance programming in Python(Object-oriented Programming)...
