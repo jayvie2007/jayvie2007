@@ -35,6 +35,6 @@ I also do 3D modeling/designing using Blender and if I have extra time,I will im
 
 [![jayvie2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvie2007&theme=github_dark&card_width=1000px&show_icons=true)](https://github.com/jayvie2007/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvie2007&theme=github_dark&card_width=1000px&layout=compact)](https://github.com/jayvie2007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvie2007&theme=github_dark&card_width=1000px&layout=compact&&hide=PowerShell,Batchfile,Hack&langs_count=10)](https://github.com/jayvie2007/github-readme-stats)
   
   
