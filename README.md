@@ -1,11 +1,13 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic) <img src="https://img.shields.io/github/followers/jayvie2007?label=Follow" style=" float:left, margin-right:10px" />
+  
+<img src="img/cover.gif">
 
   
 </div>
 
-### Hi there! My name is Jayvie De Leon an aspiring Full-Stack Developer.
+### I'm ${\color{red}Jayvie \space De \space Leon}$ an aspiring ${\color{red}Full-Stack \space Developer}$ .
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
 
