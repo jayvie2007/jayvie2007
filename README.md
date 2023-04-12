@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic)
+
 ### Hi there! My name is Jayvie De Leon an aspiring Full-Stack Developer.
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
