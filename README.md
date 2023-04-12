@@ -1,13 +1,13 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic) <img src="https://img.shields.io/github/followers/jayvie2007?label=Follow" style=" float:left, margin-right:10px" />
+![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic) <img src="https://img.shields.io/github/followers/jayvie2007?label=Follow" style=" float:left, margin-right:10px"/> [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17073%26project%3D%26in%3D0)](https://codetime.dev) 
   
 <img src="img/cover.gif">
 
   
 </div>
 
-### I'm ${\color{red}Jayvie \space De \space Leon}$ an aspiring ${\color{red}Full-Stack \space Developer}$ .
+### I'm Jayvie De Leon an aspiring Full-Stack Developer.
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
 
@@ -32,6 +32,8 @@ I also do 3D modeling/designing using Blender and if I have extra time, I will i
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvie2007&theme=github_dark&card_width=1000px&layout=compact&&hide=PowerShell,Batchfile,Hack&langs_count=10)](https://github.com/jayvie2007/github-readme-stats)
   
+  
+ 
 </div>
 
   
