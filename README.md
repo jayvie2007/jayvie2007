@@ -10,7 +10,7 @@
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
 
-I also do 3D modeling/designing using Blender and if I have extra time, I will improve my 3D designing skills. 
+I also do 3D modeling/designing using Blender.
 
 - 🔭 I’m currently working on IoT Aquaponics...
 - 📖 I’m currently learning Django and REST frameworks...
