@@ -8,7 +8,7 @@
 
 ### I'm Jayvie De Leon an aspiring Full-Stack Developer.
 
-I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.
+I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino..
 
 I also do 3D modeling/designing using Blender..
 
