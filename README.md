@@ -25,7 +25,7 @@ I also do 3D modeling/designing using Blender...
 
   <h3>Connect with Me:</h3>
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/jayvie-de-leon-5857b6265/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/ljevianl/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/itsmejaaabs/)  &nbsp; <a href="mailto:jayvief.deleon@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/jfdeleon/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/ljevianl/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/itsmejaaabs/)  &nbsp; <a href="mailto:jayvief.deleon@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jayvie2007&theme=transparent&fire=yellow&ring=yellow&sideNums=white&currStreakNum=white&dates=white&border_radius=10)](https://git.io/streak-stats)
     
