@@ -21,7 +21,7 @@ I also do 3D modeling/designing using Blender...
 <div align="center">
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,postman,django,mongodb,arduino,css,cpp,bootstrap,raspberrypi,blender,firebase,python,mysql,vscode,visualstudio,php&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,postman,django,nginx,arduino,docker,css,cpp,bootstrap,raspberrypi,redis,blender,firebase,python,mysql,vscode,visualstudio,php&perline=9&theme=light)](https://skillicons.dev)
 
   <h3>Connect with Me:</h3>
   
