@@ -5,7 +5,7 @@
   
 </div>
 
-### I'm Jayvie De Leon an aspiring Full-Stack Developer.
+### I'm Jayvie De Leon an aspiring Full-Stack Developer
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino..
 
