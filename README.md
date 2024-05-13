@@ -4,7 +4,7 @@
 <img src="img/cover.gif"> 
           
 </div>  
-  
+   
 ### I'm Jayvie De Leon a Python Developer
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino..
