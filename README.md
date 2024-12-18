@@ -18,6 +18,8 @@ I also do 3D modeling/designing using Blender...
 - ⚡ Hobby: Play Genshin and Guitar...
 
 <div align="center">
+
+<a href="https://app.daily.dev/jayviedeleon"><img src="https://api.daily.dev/devcards/v2/S4Lu0KJrgbJUfa68CvSZd.png?r=ycs" width="356" alt="Jayvie De Leon's Dev Card"/></a>
 <h3>Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,postman,django,nginx,arduino,docker,css,cpp,bootstrap,raspberrypi,redis,blender,firebase,python,mysql,vscode,tailwind,visualstudio,nextjs,react,postgres&perline=9&theme=light)](https://skillicons.dev)
