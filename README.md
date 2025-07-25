@@ -1,6 +1,6 @@
 <div align="center">
      
-![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic) <img src="https://img.shields.io/github/followers/jayvie2007?Follower=Jay" style=" float:left, margin-right:10px"/> [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17073%26project%3D%26in%3D0)](https://codetime.dev)
+![](https://komarev.com/ghpvc/?username=jayvie2007&color=red&style=plastic) <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D17073">
 <img src="img/cover.gif">  
                 
 </div>       
