@@ -8,7 +8,7 @@
 ### I'm Jayvie De Leon, Jev for short and nice to meet you! <br>Junior Full-Stack Developer <br><br>For Frontend: NextJS, TailwindCSS, NextUI <br>For Backend: Python, Django
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.. 
- 
+  
 I also do 3D modeling/designing using Blender...
    
 - 🔭 I’m currently working on 2 projects Inventory and Money Tracker https://jtd-inventory-management-system.vercel.app/, https://jtd-moneytracker.vercel.app/ **currently prioritizing inventory**
