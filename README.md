@@ -5,7 +5,7 @@
                                
 </div>                          
         
-### I'm Jayvie De Leon, Jev for short and nice to meet you! <br>Junior Full-Stack Developer <br><br>For Frontend: NextJS, TailwindCSS, NextUI <br>For Backend: Python, Django
+### I'm Jayvie De Leon, Jev for short and nice to meet you! <br>Junior Full-Stack Developer <br><br>For Frontend: NextJS, TailwindCSS, NextUI <br>For Backend: Python, Django 
 
 I do IoT programming mainly in Raspberry Pi but also have knowledge in using Arduino.. 
   
